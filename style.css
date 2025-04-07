@@ -5,6 +5,33 @@
 }
 
 .btn {
-background-color: rgb(11, 243, 11);
-box-sizing: ;
+    /* crée la forme du button + la typo */
+    border-radius: 32px; /*arrondir les angles */
+
+padding: 11px 21px;
+display: inline-block;
+text-decoration: none;
+color: white;
+font-family: "Itim", cursive;
+
 }
+
+
+
+.vert{
+
+background-color: #4ba463;
+}
+
+.rouge{
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
